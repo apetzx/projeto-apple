@@ -1,0 +1,152 @@
+body{
+    margin: 0px;
+}
+
+.imgPrincipal{
+  background-size: cover;
+  position: absolute;
+  left: 500px;
+  right: 100%;
+  top: 300px;
+  bottom: 75.37%;
+}
+
+.cabecalho {
+    background-color: #0B0039;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 50px;
+}
+.rodape {
+    position: fixed;
+    bottom: 0;
+    background-color: #0B0039;
+    color: #FFF;
+    width: 100%;
+    height: 20px;    
+    line-height: 100px;
+}
+
+.mUm{
+    font-family:'Poiret One', cursive;
+    position: absolute;
+    left: 300px;
+    right: 300px;
+    top: 50px;
+    text-align: center;
+}
+
+.mDois{
+    font-family:'Poiret One', cursive;
+    position: absolute;
+    left: 300px;
+    right: 300px;
+    top: 95px;
+    text-align: center;
+}
+
+.mTres{
+    font-family:'Poiret One', cursive;
+    bottom: 0px;
+    margin-left: 350px;
+    margin-right: 50px;
+}
+
+
+button{
+    background-color:#f0eeee;
+    font-size: 15px;
+    font-family: 'Rubik';
+    color: black;
+    border: solid;
+    border-color: #ffffff;
+    border-radius: 10px;
+    border-width: 1px;
+    text-decoration: none;
+    padding: 10px 10px;
+    cursor: pointer;
+}
+  
+button:hover{
+    border-color: #0B0039;
+}
+
+.btnUm{
+    margin-left: auto;
+    margin-right: 10px;
+    display: block;
+    width: 20%;
+    margin-top: 30px;
+}
+.btnDois{
+    margin-left: auto;
+    margin-right: 10px;
+    display: block;
+    width: 20%;
+    margin-top: 30px;
+}
+
+.btnTres{
+    margin-left: auto;
+    margin-right: 10px;
+    display: block;
+    width: 20%;
+    margin-top: 30px;
+}
+
+.btnQuatro{
+    margin-left: auto;
+    margin-right: 10px;
+    display: block;
+    width: 20%;
+    margin-top: 30px;
+}
+
+.btnCinco{
+    margin-left: auto;
+    margin-right: 10px;
+    display: block;
+    width: 20%;
+    margin-top: 30px;
+}
+
+.btnSeis{
+    margin-right: auto;
+    margin-left: 10px;
+    display: block;
+    width: 20%;
+    margin-bottom: 30px;
+}
+
+.btnSete{
+    margin-right: auto;
+    margin-left: 10px;
+    display: block;
+    width: 20%;
+    margin-bottom: 30px;
+}
+
+.btnOito{
+    margin-right: auto;
+    margin-left: 10px;
+    display: block;
+    width: 20%;
+    margin-bottom: 30px;
+}
+
+.btnNove{
+    margin-right: auto;
+    margin-left: 10px;
+    display: block;
+    width: 20%;
+    margin-top: 0px;
+}
+
+
+
+
+
+  
